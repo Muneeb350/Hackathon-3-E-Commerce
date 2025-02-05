@@ -1,5 +1,5 @@
-# Hackathon-3-E-Commerce
-Documentation
+**Documentation**
+
 📄 Project Documentation
 📌 Overview:
 This repository contains documentation for the Clothing E-commerce website project, covering development progress, API integration, frontend, and backend refinements.
